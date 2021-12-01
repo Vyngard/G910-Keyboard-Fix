@@ -23,6 +23,8 @@ Problem with this keyboard is discussed on various forums.
 https://www.reddit.com/r/LogitechG/comments/b8pqj9/g910_double_typing/
 https://www.reddit.com/r/LogitechG/comments/fstryp/g910_keyboard_keys_double_typing/
 https://www.reddit.com/r/LogitechG/comments/cu1uaa/ghub_causing_random_keypresses_or_ghostkey/
+
+#### Other possible solutions
 Above links suggest also other possible solutions (none worked for me, hence the script above).
 - Take your keys out and clean you keybard connections, 
 - Change USB socket to which the keyboard is connected
