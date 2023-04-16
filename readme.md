@@ -5,7 +5,7 @@ It's a workaround for broken G910 Logitech keyboards (possibly other keyboards t
 The key bug appears because keyboard registers multiple keystrokes in a very short timespan even though you pressed the key only once. 
 This script makes it so the subsequent keystrokes registered in a very short timespan are ignored thus outputing the key only for the first stroke.
 ## How to use this fix?
-You need install AutoHotkey (Windows only). https://www.autohotkey.com/. A software to hijack keystrokes and assign them different functions.
+You need install AutoHotkey v1 (Windows only). https://www.autohotkey.com/. A software to hijack keystrokes and assign them different functions. Note that year later after I've made this script that AutoHotkey v2 was released and this gist is not compatible with it. However, AHK v1 and v2 can run on the same computer without conflict.
 Then download the **G910 Keyboard Fix.ahk** file above, change the configuration in it, save and then double click it. 
 You can add this file to Windows autostart if needed.
 
